@@ -3,22 +3,24 @@
  * - initialize the cache and,
  * - add files to it for offline use.
  */
-const cacheName = 'pfXEetLQyyNMtLHy-v1.5'; // Cache name and version.
+const cacheName = 'pfXEetLQyyNMtLHy-v1.9'; // Cache name and version.
 
 const appShellFiles = [
     "app.js",
     "index.htm",
     "logo-01-96.png",
     "style.css",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-32.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-64.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-96.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-128.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-168.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-192.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-256.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/logo-512.png",
-    "http://localhost/Tests/PWAs/PWATest/icons/maskable_icon_x192.png"
+    "icons/logo-32.png",
+    "icons/logo-64.png",
+    "icons/logo-96.png",
+    "icons/logo-128.png",
+    "icons/logo-168.png",
+    "icons/logo-192.png",
+    "icons/logo-256.png",
+    "icons/logo-512.png",
+    "icons/maskable_icon_x192.png",
+    "mixkit-software-interface-remove-2576.mp3",
+    "images/logo-01-timeline.png"
 ];
 
 // Files from other sources, API endpoint or Database.

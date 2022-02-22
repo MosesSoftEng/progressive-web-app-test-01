@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="082cd21c-382c-4ea0-8dd3-f60763e2847a" name="Changes" comment="" />
+    <list default="true" id="082cd21c-382c-4ea0-8dd3-f60763e2847a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../TossCoin/Simulator/1.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Exceptions" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -40,7 +46,13 @@
       <workItem from="1644555093001" duration="2203000" />
       <workItem from="1644571632423" duration="9000" />
       <workItem from="1644639887405" duration="5404000" />
-      <workItem from="1644649962485" duration="1062000" />
+      <workItem from="1644649962485" duration="1934000" />
+      <workItem from="1644899044873" duration="2017000" />
+      <workItem from="1644903023847" duration="13000" />
+      <workItem from="1644905612883" duration="28000" />
+      <workItem from="1644906303279" duration="12000" />
+      <workItem from="1645411832481" duration="2510000" />
+      <workItem from="1645497115016" duration="1876000" />
     </task>
     <servers />
   </component>

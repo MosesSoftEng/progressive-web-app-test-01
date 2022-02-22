@@ -50,7 +50,7 @@
             "purpose": "any maskable"
         }
     ],
-    "start_url": "http://localhost/Tests/PWAs/PWATest/",
+    "start_url": "https://studyansw.com/pwa/",
     "display": "fullscreen",
     "theme_color": "#FFD600",
     "background_color": "#FFFF8D"
